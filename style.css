@@ -1,0 +1,19 @@
+.twinkle-head{
+    color:black;
+    text-transform: capitalize;
+    text-decoration: underline;
+    /* font-family:Arial, Helvetica, sans-serif; */
+    font-weight: 900;
+    /* text-align: center; */
+}
+.twinkle{
+    color:rgb(20, 20, 165);
+    font-style: italic;
+    text-transform: capitalize;
+    text-align: left;
+    font-weight: 700;
+    font-size: large;
+}
+.days{
+    font-weight: bold;
+}
